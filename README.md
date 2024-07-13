@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am Founder Of Wtag and I learning swift
+
 
 
 ## 🌐 Socials:
